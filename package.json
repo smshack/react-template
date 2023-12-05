@@ -1,0 +1,14 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "- 리액트 기본 초기 설정을 템플릿화 해서 프로젝트 진행을 쉽게 하기 위한 프로젝트 입니다\r - 리액트(NoCRA) + 웹팩 + swc + Typescript + Tailwindcss + Zustand 사용\r   - [NoCRA](https://sunnyfterrain.github.io/devlog/tips-nocra.html) :CRA를 사용할 때 불필요한 의존성을 너무 많이 설치해서 번들 크기가 커지는 것을 막기 위해서 CRA없이 모두 돌아가게끔 설정\r   - [swc](https://swc.rs/):Speedy Web Compiler 매우 빠른 자바스크립트 컴파일러\r   - [webpack](https://webpack.kr/):  자바스크립트 모듈뿐만이 아니라 HTML, CSS, Javascript, Images, Font 등 웹 애플리케이션을 구성하는 모든 자원을 하나의 파일로 병합 및 압축해주기 위해 사용\r   - [Typescript](https://www.typescriptlang.org/docs/): 타입 에러 디버깅 용이, 협업에 도움\r   - [tailwindcss](https://tailwindcss.com/docs/installation): Utility-First 덕에 매우 쉽고 빠르게 원하는 디자인을 개발,쉽고 자유로운 커스텀,로우 레벨의 스타일 제공\r   - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): 전역상태 관리\r   - [shadcn](https://ui.shadcn.com/docs/installation): 템플릿화된 UI 사용",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
