@@ -1,0 +1,13 @@
+대분류,한글 페이지명,,,영문 페이지명,,,URL,,
+,1depth,2depth,3depth,1depth,2depth,3depth,full ,담당자,비고
+홈,홈,,,/,,,/,,
+유저,멤버,로그인,,/member,/login,,/member/login,,
+,,회원가입,,/member,/signup,,/member/signup,,
+,,아이디 찾기,,/member,/find,,,,
+,,비밀번호 재설정,,/member,/reset-password,,/member/reset-password,,
+,,이용약관,,/member,/term,,/member/term,,
+,,개인정보처리방침,,/member,/privacy,,/member/privacy,,
+공지사항,공지사항,,,/notice,,,/notice,,
+,,아이디,,/notice,/:id,,/notice/:id,,
+FAQ,FAQ,,,/faq,,,/faq,,
+강의자 신청,교수자,,,/instructor,,,/instructor,,
