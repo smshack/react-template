@@ -1,38 +1,40 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+about: 버그에 대해서 설명해주세요
+title: "제목"
+labels: ""
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**버그 설명**
+버그에 대한 명확하고 간결한 설명을 적어주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**재현 방법**
+다음의 단계를 따라서 문제를 재현해주세요:
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1. '...'로 이동
+2. '....' 클릭
+3. '....'까지 스크롤
+4. 오류 확인
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**예상 행동**
+당신이 예상했던 행동에 대한 명확하고 간결한 설명을 적어주세요.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**스크린샷**
+가능하다면, 문제를 설명하는데 도움이 될 수 있는 스크린샷을 첨부해주세요.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**데스크탑 (아래의 정보를 완성해주세요):**
 
-**Additional context**
-Add any other context about the problem here.
+-   OS: [예. iOS]
+-   라우저 [예. 크롬, 사파리]
+-   버전 [예. 22]
+
+**스마트폰 (아래의 정보를 완성해주세요):**
+
+-   기기: [예. iPhone6]
+-   OS: [예. iOS8.1]
+-   브라우저 [예. 기본 브라우저, 사파리]
+-   버전 [예. 22]
+
+**추가 정보**
+문제에 대한 추가적인 정보가 있다면 여기에 적어주세요.
