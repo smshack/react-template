@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "email": "aa@aa.aa",
+    "password": "asdfasdf",
+    "name": "김철수"
+  },
+  {
+    "id": 2,
+    "email": "bb@bb.bb",
+    "password": "asdfasdf",
+    "name": "이영희"
+  }
+]
